@@ -1,14 +1,8 @@
 <html>
 <body>
 <head>
-<style>
-body {font : 12px verdana; font-weight:bold}
-td {font : 11px verdana;}
-</style>
 </head>
-
 <?php
-
 abstract class AbstractConstruccion {
   
  
